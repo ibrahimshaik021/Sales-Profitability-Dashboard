@@ -50,7 +50,7 @@ This project involves an end-to-end analysis of the classic "Global Superstore" 
 **Executive Summary Page**
 ![Executive Summary](https://github.com/ibrahimshaik021/Sales-Profitability-Dashboard/blob/main/Executive%20Summary.png?raw=true)
 **Product Analysis Page**
-
+![Product Analysis](https://github.com/ibrahimshaik021/Sales-Profitability-Dashboard/blob/main/Product%20Analysis.png?raw=true)
 
 ---
 
