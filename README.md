@@ -57,5 +57,5 @@ This project involves an end-to-end analysis of the classic "Global Superstore" 
 ## 📞 Contact
 
 * **Author:** Shaik ibrahim
-* **LinkedIn:** www.linkedin.com/in/ibrahim-shaik-24603b297
+* **LinkedIn:** www.linkedin.com/in/ibrahimshaik021
 * **Email:** ibrahimshaik2107@gmail.com
